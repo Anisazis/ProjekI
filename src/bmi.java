@@ -19,6 +19,7 @@ public class bmi {
         String Ulasan;
         Scanner input = new Scanner (System.in);
         
+        
         System.out.println("Masukkan berat badan anda dalam ukuran kg: " );
         double berat=input.nextDouble();
         
